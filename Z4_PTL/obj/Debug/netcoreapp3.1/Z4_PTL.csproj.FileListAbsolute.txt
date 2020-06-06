@@ -1,0 +1,15 @@
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\bin\Debug\netcoreapp3.1\Z4_PTL.exe
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\bin\Debug\netcoreapp3.1\Z4_PTL.deps.json
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\bin\Debug\netcoreapp3.1\Z4_PTL.runtimeconfig.json
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\bin\Debug\netcoreapp3.1\Z4_PTL.runtimeconfig.dev.json
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\bin\Debug\netcoreapp3.1\Z4_PTL.dll
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\bin\Debug\netcoreapp3.1\Z4_PTL.pdb
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\obj\Debug\netcoreapp3.1\Z4_PTL.csprojAssemblyReference.cache
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\obj\Debug\netcoreapp3.1\Z4_PTL.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\obj\Debug\netcoreapp3.1\Z4_PTL.AssemblyInfoInputs.cache
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\obj\Debug\netcoreapp3.1\Z4_PTL.AssemblyInfo.cs
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\obj\Debug\netcoreapp3.1\Z4_PTL.csproj.CopyComplete
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\obj\Debug\netcoreapp3.1\Z4_PTL.dll
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\obj\Debug\netcoreapp3.1\Z4_PTL.pdb
+C:\Users\Intel\Desktop\Programowanie projekt\Z4_APIandPTL\Z4_PTL\obj\Debug\netcoreapp3.1\Z4_PTL.genruntimeconfig.cache

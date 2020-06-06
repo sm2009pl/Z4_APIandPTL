@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2YTiOnm/L/PvQNO+KeIamrYm9oKxTRA88u2S7Irc4lSHWgm7jDvQ28eFpDxfR5yhWe+EoA2UIg/fIYb1B9Jcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Intel\\Desktop\\Programowanie projekt\\Z4_APIandPTL\\Z4_PTL\\Z4_PTL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Intel\\.nuget\\packages\\restsharp\\106.10.1\\restsharp.106.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}

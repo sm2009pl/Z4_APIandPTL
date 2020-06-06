@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore.SqlServer;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 
@@ -27,27 +28,9 @@ namespace Z4_API
                 .HasMaxLength(90)
                 .IsRequired();
             modelBuilder.Entity<Teams>()
-                .Property(x => x.mascot)
-                .IsRequired();
-
-            modelBuilder.Entity<Teams>()
                 .Property(x => x.abbreviation);
             modelBuilder.Entity<Teams>()
-                .Property(x => x.alt_name1);
-            modelBuilder.Entity<Teams>()
-                .Property(x => x.alt_name2);
-            modelBuilder.Entity<Teams>()
-                .Property(x => x.alt_name3);
-            modelBuilder.Entity<Teams>()
                 .Property(x => x.conference);
-            modelBuilder.Entity<Teams>()
-                .Property(x => x.division);
-            modelBuilder.Entity<Teams>()
-                .Property(x => x.color);
-            modelBuilder.Entity<Teams>()
-                .Property(x => x.alt_color);
-            modelBuilder.Entity<Teams>()
-                .Property(x => x.logos);
 
 
             modelBuilder.Entity<Coaches>()
@@ -57,6 +40,9 @@ namespace Z4_API
                 .Property(x => x.last_name)
                 .IsRequired();
 
+            modelBuilder.Entity<Season>()
+                .Property(x => x.School)
+                .IsRequired();
         }
     }
 }

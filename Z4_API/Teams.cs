@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
+using System.Text.Json.Serialization;
 
 namespace Z4_API
 {
@@ -8,15 +10,11 @@ namespace Z4_API
     {
         public int id { get; set; }
         public string school { get; set; }
-        public string mascot { get; set; }
         public string abbreviation { get; set; }
-        public string alt_name1 { get; set; }
-        public string alt_name2 { get; set; }
-        public string alt_name3 { get; set; }
         public string conference { get; set; }
-        public string division { get; set; }
-        public string color { get; set; }
-        public string alt_color { get; set; }
-        public string logos { get; set; }
+
+        [JsonIgnore]
+        public List<Coaches> Coaches { get; set; } = new List<Coaches>();
+
     }
 }
