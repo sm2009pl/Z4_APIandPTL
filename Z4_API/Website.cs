@@ -8,7 +8,7 @@ namespace Z4_API
 {
     public class Website
     {
-        public RestClient _client { get; private set; }
+        public RestClient _client { get; set; }
         public Website(string baseLink)
         {
             _client = new RestClient(baseLink);

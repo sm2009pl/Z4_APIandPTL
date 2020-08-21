@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Z4_API
 {
-    class Season
+    public class Seasons
     {
         public int Id { get; set; }
         public string School { get; set; }
